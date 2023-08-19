@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS orlmagic_db;
+CREATE DATABASE orlmagic_db;
